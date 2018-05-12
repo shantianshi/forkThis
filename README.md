@@ -1,21 +1,20 @@
-# Project Title
+# Stefany's First Ever Git Project
 
-## Forkthis Repo for Practice
+## This repo has been forked.
 
-### Write your author name here. eg. By Nicole
+### Shan Tian Shi
 
-### Description
+### A basic project for git. 
 
-Create a description and fill it in here.
+This is a readme markdown language.
 
-## Languages used
+## HTML and CSS
 
-What languages were used for this repo:
-List them
+We will learn HTML and CSS.
 
 ### Known Bugs
 
-Are there any? If so what are they?
+No bugs so far. 
 
 ## License
 
@@ -23,6 +22,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Thank you, codebaseacademy!
